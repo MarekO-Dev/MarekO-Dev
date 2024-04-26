@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning:
-           Javascript
-           NodeJS
+-            Python
+-        Data Science
+-    Data Analytics
            
 
 <!--
