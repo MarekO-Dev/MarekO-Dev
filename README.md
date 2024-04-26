@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning:
 -            Python
--        Data Science
--    Data Analytics
+-            Data Science
+-            Data Analytics
            
 
 <!--
