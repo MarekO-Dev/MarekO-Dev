@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning:
--            Python
--            Data Science
--            Data Analytics
+🌱 I’m currently learning:
+- Python
+- Data Science
+- Data Analytics
+- Bash
+- 
+🔭 I’m currently working on:
+- Number guessing game
            
 
 <!--
