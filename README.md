@@ -5,9 +5,6 @@
 - Data Science
 - Data Analytics
 - Bash
-- 
-🔭 I’m currently working on:
-- Number guessing game
            
 
 <!--
